@@ -1,0 +1,22 @@
+{
+    "ownerNumber": ["6285654001274@s.whatsapp.net"],
+    "ownerName": "XgtibXcyb",
+    "instagram" : "https://instagram.com/xgtib",
+    "botName": "XgXBOT-Mdོ ",
+    "footer": "www.instagram.com/xgtib",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "T9tAClX7",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 10000,
+        "user": 100
+    }
+}
